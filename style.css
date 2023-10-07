@@ -1,0 +1,22 @@
+body{
+    background-color: burlywood;
+}
+.btn{
+    width: 60%;
+    background-color: rgb(122, 102, 255);
+} 
+.copy_right_footer{
+    font-size: 20px;
+    background-color: grey;
+    color: rgb(219, 212, 0);
+    padding: 15px;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    right: -5px;
+}
+.btnStop{
+    background-color: rgb(255, 28, 28);
+    width: 40%;
+}
